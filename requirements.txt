@@ -1,0 +1,13 @@
+# Python dependencies for the CARLA Autonomous Navigation project.
+#
+# IMPORTANT: the 'carla' package MUST match the version of the CARLA server you
+# are running. Install the wheel that ships with your simulator, or pin the
+# matching version below (example shown for 0.9.15).
+#
+#   carla==0.9.15
+#
+# If you installed CARLA from the official .egg/wheel bundled with the
+# simulator, you may not need to install 'carla' via pip at all.
+
+carla>=0.9.13
+numpy>=1.21
