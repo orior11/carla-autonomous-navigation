@@ -13,7 +13,7 @@ It deliberately does **not** use CARLA's built-in `GlobalRoutePlanner`. The topo
 | Run | Video |
 |-----|-------|
 | Dijkstra planner — full A → B run in CARLA | ▶️ [Watch on YouTube](https://youtu.be/REPLACE_WITH_DIJKSTRA_VIDEO_ID) |
-| A\* planner — full A → B run in CARLA | ▶️ [Watch on YouTube]| Dijkstra planner — full A → B run in CARLA | ▶️ [Watch on YouTube](https://youtu.be/e8b5mMvgPIM)|
+| A\* planner — full A → B run in CARLA | ▶️ [Watch on YouTube](https://youtu.be/e8b5mMvgPIM)|
 
 ---
 
