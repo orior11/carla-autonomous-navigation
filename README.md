@@ -174,8 +174,5 @@ A comprehensive academic write-up — covering the graph-construction methodolog
 |------|----|
 | Ori Zarfaty (אורי צרפתי) | 208213678 |
 | Romi Yosef (רומי יוסף) | 209363274 |
-| Natan Beer (נתן BEER) | 208788356 |
+| Natan Beer (נתן בר) | 208788356 |
 
-## License
-
-Released under the [MIT License](LICENSE).
